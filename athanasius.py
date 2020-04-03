@@ -75,7 +75,7 @@ class Athanasius:
         elif choice == "5":
             Spoofing()
         elif choice == "6":
-            pass
+		print(fa.RED + "\ncoming soon\n" + fa.END)
         elif choice == "7":
             XssAttack()
         elif choice == "99":
@@ -294,6 +294,8 @@ class NmapScripts:
         elif choice == "11":
             target = input("please Provide The Target: ")
             s('nmap -sV --script http-wordpress-brute' % (target))
+	elif choice == "99":
+            Athanasius()
         else:
             try:
                 print(s(choice))
