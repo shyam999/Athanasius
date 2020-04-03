@@ -1,9 +1,7 @@
+[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/shyam999/django-blog/blob/master/LICENSE)
 # Athanasius Hacking Framework
 
-
 ## Installation
-
-
 **1.Clone Repo**
 ```sh
 git clone https://github.com/shyam999/Athanasius.git
