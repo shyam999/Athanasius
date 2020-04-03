@@ -14,12 +14,9 @@ pip install -r requirements.txt
 ```sh
 python athanasius.py
 ```
-# Screenshots
-## Main Menu
+# Screenshot
 ![](screenshot/term1.png)
-## Password Attacks
-![](screenshot/term3.png)
 
 ## Where to find Me
 Like Me on [Facebook](https://www.facebook.com/shyam333445/)
-Or visit My [Website](#)
+Or visit My [Website](https://shyam999.github.io)
