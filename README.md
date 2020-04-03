@@ -1,8 +1,7 @@
 # Athanasius Hacking Framework
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ed7509fffb04b71bf411ef0673db8f4)](https://app.codacy.com/manual/shyam.acharjya.1/Athanasius?utm_source=github.com&utm_medium=referral&utm_content=shyam999/Athanasius&utm_campaign=Badge_Grade_Dashboard)
 
-## Installation:
+## Installation
 
 
 **1.Clone Repo**
@@ -24,8 +23,5 @@ python athanasius.py
 ![](screenshot/term3.png)
 
 ## Where to find Me
-
 Like Me on [Facebook](https://www.facebook.com/shyam333445/)
-
-
 Or visit My [Website](#)
