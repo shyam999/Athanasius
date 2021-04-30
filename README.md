@@ -10,7 +10,11 @@ git clone https://github.com/shyam999/Athanasius.git
 ```sh
 pip install -r requirements.txt
 ```
-**3.Run The Script**
+**3.Install hydra**
+```sh
+sudo apt install hydra
+```
+**4.Run The Script**
 ```sh
 python athanasius.py
 ```
